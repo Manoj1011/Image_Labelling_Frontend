@@ -1,14 +1,14 @@
 
-# Language Learning Game Frontend
+# Image Labelling Frontend
 
-Frontend of the Language Learning Game, which helps users to learn languages via quizzes.
+Frontend of the Image Labelling, which supports admin and user type management where every user and admin can see what the label given by users for each image and this data can be used in Machine learning as this information is also collecting data.
 
 
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`REACT_APP_API_URL=<server url ex: http://localhost:4445/>`
+`REACT_APP_API_URL=<server url ex: http://localhost:4444/>`
 
 
 ## Run Locally
@@ -22,7 +22,7 @@ Clone the project.
 Go to the project directory
 
 ```bash
-  cd langninja-frontend
+  cd Image_Labelling
 ```
 
 Install dependencies
@@ -37,7 +37,7 @@ Start the server
   npm run start
 ```
 
-Make sure to clone the start the server by cloning from https://github.com/vishnu0308/LangNinja-Backend
+Make sure to clone the start the server by cloning from https://github.com/Manoj1011/Image_Labelling_Backend.git
 ## Screenshots
 
 Sign up page
