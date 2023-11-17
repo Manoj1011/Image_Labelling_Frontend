@@ -65,13 +65,11 @@ User Home
 
 ![user_home_1](https://github.com/Manoj1011/Image_Labelling_Frontend/assets/68637817/3e96df3b-3632-47e0-a47c-9e89709eddbd)
 
-Normal Dashboard
+Normal Dashboard ( Accessible for both users and admins)
 
 ![dashboard](https://github.com/Manoj1011/Image_Labelling_Frontend/assets/68637817/e9817564-f4ef-4cd1-a0a3-defc58ec1667)
 
 
-
-Quiz page
 
 
 
